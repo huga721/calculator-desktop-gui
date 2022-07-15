@@ -2,6 +2,6 @@
 
 Basic calculator created with java swing
 
-TODO:
+# TODO:
 - renew code
 - write readme
