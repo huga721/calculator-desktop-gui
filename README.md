@@ -7,4 +7,5 @@ Basic calculator created with java swing
 - write readme
 
 # what I used
-- Java Swing API
+- java
+- swing api
